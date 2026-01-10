@@ -9,7 +9,7 @@
 
 ```python
 # Just a duck... 🤫
-class Enver:
+class Ömer:
     def __init__(self):
         self.status = "Learning by exploiting"
         self.languages = ["Python", "C++", "C#"]
@@ -78,11 +78,12 @@ class Enver:
 
 ---
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonomer&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jonomer)
-
+<a href="https://github.com/Jonomer">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jonomer&show_icons=true" />
+</a>
+<a href="https://github.com/Jonomer">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonomer&layout=compact&langs_count=8" />
+</a>
 ---
 ---
 
@@ -103,7 +104,7 @@ g++ exploit.cpp -o exploit && ./exploit
 ## 🔐 Quote of the Day
 
 > _“Love is like a reverse shell — you set it up, but you're never sure it'll call back.”_  
-> — Poet, Kurdish Enver
+> — Poet, Kurdish Ömer
 
 ---
 
