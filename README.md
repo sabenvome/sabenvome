@@ -1,11 +1,4 @@
 <!-- README.md -->
-
-
-
-```bash
-# Duck mode: enabled
-🦆 sudo apt install ordek
-```
 <div align="center">
   
 ### **$sabenvome**
@@ -63,8 +56,11 @@
 ---
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/tr/6/61/Redhack_logo.png" alt="RedHack Logo" width="300">
 
+```bash
+# Duck mode: enabled
+🦆 sudo apt install ordek
+```
 </div>
 
 
