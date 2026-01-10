@@ -77,11 +77,11 @@ class Enver:
 
 
 ---
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonomer&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonomer) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jonomer)
 
 ---
 ---
