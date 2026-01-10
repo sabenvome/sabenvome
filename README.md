@@ -78,12 +78,7 @@ class Ömer:
 
 ---
 ## 📊 GitHub Stats
-<a href="https://github.com/Jonomer">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jonomer&show_icons=true" />
-</a>
-<a href="https://github.com/Jonomer">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonomer&layout=compact&langs_count=8" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jonomer)
 ---
 ---
 
