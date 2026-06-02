@@ -6,7 +6,7 @@
 **Omer Pasha's Personal Portfolio Site**
 
 [![Website](https://img.shields.io/badge/Website-sabenvome.com-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white)](https://sabenvome.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Jonomer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonomer)
+[![GitHub](https://img.shields.io/badge/GitHub-sabenvome-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabenvome)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonomer&theme=tokyonight&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&area_color=FF6B9D)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabenvome&theme=tokyonight&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&area_color=FF6B9D)
 
 ---
 
